@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 #Use netstat to display listening ports UDP or TCP with PID name program
 
-netstat -ltpn
+netstat -lptun
